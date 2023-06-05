@@ -15,7 +15,7 @@
     "@antfu/eslint-config": "^0.39.4",
     "@vuepress/plugin-back-to-top": "^1.9.9",
     "@vuepress/plugin-medium-zoom": "^1.9.9",
-    "eslint": "^8.41.0",
+    "eslint": "^8.42.0",
     "vuepress": "^1.9.9"
   }
 }
